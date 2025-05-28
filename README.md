@@ -1,4 +1,5 @@
-# Amazon Electronics EDA with PySpark and SparkSQL
-This is a project where I performed Exploratory Data Analysis on Amazon Electronics Product Data (on reviews and metadata) by leveraging Apache Spark via PySpark and SparkSQL. 
+# Project Overview
+
+This project performs exploratory data analysis (EDA) on a large Amazon Electronics dataset using PySpark and SparkSQL. It showcases scalable data processing and SQL querying capabilities for uncovering trends in product ratings, reviews, and categories at scale.
 
 The data was obtained from https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
